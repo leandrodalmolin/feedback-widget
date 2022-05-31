@@ -8,6 +8,7 @@ Project created during a [Rocketseat](https://www.rocketseat.com.br/) event call
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
+- [Project setup](#project-setup)
 
 ## The project
 
@@ -37,3 +38,23 @@ Users should be able to:
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [Axios](https://axios-http.com/) - Promise based HTTP client
 - [Headless UI](https://headlessui.dev/) - Accessible UI components
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Preview production build
+```
+npm run preview
+```
